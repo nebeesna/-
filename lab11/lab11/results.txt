@@ -1,0 +1,7 @@
+Thread[0] run in 1.9928 ms
+Thread[1] run in 0.9424 ms
+Thread[2] run in 0.9515 ms
+Thread[3] run in 342.501 ms
+Thread[4] run in 1.7515 ms
+Thread[5] run in 0.9358 ms
+Thread[6] run in 0.7933 ms
